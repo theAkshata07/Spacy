@@ -1,1 +1,1 @@
-Rule based system using spacy - sample implementation
+spacy - sample implementation
